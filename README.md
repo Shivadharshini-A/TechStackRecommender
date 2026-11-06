@@ -1,5 +1,5 @@
 
-# Project 3 - AI Tech Stack Recommender
+# AI Tech Stack Recommender
 
 ## Description
 An AI-based career recommendation system that suggests
